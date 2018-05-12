@@ -1,0 +1,27 @@
+_repo: None-so-Deaf-as-Those-Who-Won-t-HearA-Comedietta-in-one-Act_43536
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43536-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, Herbert Pelham
+    aliases:
+    - Curtis, H. P. (Herbert Pelham)
+    - Curtis, H. Pelham (Herbert Pelham)
+    gutenberg_agent_id: '42279'
+    url: http://www.gutenberg.org/2009/agents/42279
+description: ''
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 19th century'
+- !lcc 'PS'
+title: 'None so Deaf As Those Who Won''t Hear: A Comedietta in One Act'
+url: http://www.gutenberg.org/ebooks/43536
